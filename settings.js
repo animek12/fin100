@@ -56,9 +56,9 @@ global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg'
-global.packname = '© FIN MD ' + botname //sticker wm ubah
-global.author = 'Created By Fin Ofc' + ownername //sticker wm ganti nama kalian
+global.thumbGif = 'https://telegra.ph/file/973b19abcc717320b6349.mp4'
+global.packname = '©' + botname //sticker wm ubah
+global.author = 'Created By' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
